@@ -1,0 +1,90 @@
+# ============================================
+# Visual Studio / .NET
+# ============================================
+
+# Visual Studio local data
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Architecture-specific build output
+x86/
+x64/
+ARM/
+ARM64/
+
+# ============================================
+# NuGet
+# ============================================
+
+# Restored packages
+packages/
+.nuget/
+
+# Generated NuGet packages
+*.nupkg
+*.snupkg
+
+# ============================================
+# Test / Coverage
+# ============================================
+
+TestResults/
+coverage/
+.coverage/
+
+*.trx
+*.coverage
+*.coveragexml
+
+# ============================================
+# Generated package / build output
+# ============================================
+
+artifacts/
+dist/
+output/
+temp/
+tmp/
+
+# ============================================
+# IDE
+# ============================================
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# ============================================
+# Logs / Temporary files
+# ============================================
+
+*.log
+*.tmp
+*.temp
+
+# ============================================
+# Operating System
+# ============================================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
